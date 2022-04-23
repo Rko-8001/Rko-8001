@@ -40,6 +40,5 @@ want in your profile:
  </div> 
 
 
-## :trophy: My Github Stats <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rko-8001&show_icons=true&theme=highcontrast) <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rko-8001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
