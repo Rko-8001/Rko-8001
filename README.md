@@ -10,7 +10,7 @@
 - 🔭 I’m currently a CSE 2<sup>nd</sup> year Undergraduate student at IIT Ropar.
 - 🌱 I’m currently learning JavaScript and react.js.
 - 💻 I'm currently proficient in C, C++, Java, Perl, Lex, Yacc.
-- ✨ I'm Like doing Competative Programming and playing Valorant, BGMI.
+- ✨ I'm Like doing Competitive Programming and playing Valorant, BGMI.
 - 👀 Looking forward to collaborate on many projects.
 - 🤝: Let's get in touch and form lasting bonds.
 
